@@ -1,3 +1,8 @@
+/*
+*   created by Darius Moomivand on June 14, 2018
+*      UVA Problem 10038
+*/
+
 #include <iostream>
 #include <cmath>
 #include <vector>
